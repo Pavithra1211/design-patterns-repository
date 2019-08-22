@@ -1,1 +1,2 @@
 Starting new design patterns
+Adding one more line to the file
