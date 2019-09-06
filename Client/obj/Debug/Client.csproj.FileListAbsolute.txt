@@ -1,0 +1,10 @@
+C:\DesignPatterns\Design Patterns\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\DesignPatterns\Design Patterns\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\Design Patterns\Client\bin\Debug\Client.exe.config
+C:\DesignPatterns\Design Patterns\Client\bin\Debug\Client.exe
+C:\DesignPatterns\Design Patterns\Client\bin\Debug\Client.pdb
+C:\DesignPatterns\Design Patterns\Client\bin\Debug\Design Patterns.dll
+C:\DesignPatterns\Design Patterns\Client\bin\Debug\Design Patterns.pdb
+C:\DesignPatterns\Design Patterns\Client\obj\Debug\Client.csproj.CopyComplete
+C:\DesignPatterns\Design Patterns\Client\obj\Debug\Client.exe
+C:\DesignPatterns\Design Patterns\Client\obj\Debug\Client.pdb
