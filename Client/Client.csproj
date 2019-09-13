@@ -43,14 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Client.cs" />
-    <Compile Include="ObserverClient.cs" />
+    <Compile Include="DecoratorClient.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DecoratorPattern\DecoratorPattern.csproj">
+      <Project>{194E2F16-B662-4589-901B-525B1B4AA7D0}</Project>
+      <Name>DecoratorPattern</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Design Patterns\StrategyPattern.csproj">
       <Project>{cb369760-8c67-4562-a12b-c63c3ff3c118}</Project>
       <Name>StrategyPattern</Name>

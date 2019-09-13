@@ -11,5 +11,8 @@ namespace DecoratorPattern
         }
 
         public abstract Double Cost();
+
+        
+        
     }
 }

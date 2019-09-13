@@ -6,7 +6,7 @@ namespace DecoratorPattern
 {
 
     //Class caramel is depadent on the reference beverage
-    class Caramel : Beverage
+    public class Caramel : Beverage
     {
         Beverage beverage;  // Instance variable of Beverage class
 
