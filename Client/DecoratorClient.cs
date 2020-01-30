@@ -1,4 +1,5 @@
 ﻿using DecoratorPattern;
+using SingletonPattern;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,16 +8,20 @@ using System.Threading.Tasks;
 
 namespace Client
 {
-    class DecoratorClient
+    class DecoratoClient
     {
         public static void Main(string []args)
         {
 
-            Beverage b = new Espresso();
+            //Beverage b = new Espresso();
+
+            string n = singleton.getInstance().Name;
 
 
+            Console.WriteLine(n);
 
-            Console.WriteLine("Cost of Espresso is $ {0}", b.Cost());
+
+           // Console.WriteLine("Cost of Espresso is $ {0}", b.Cost());
 
             //b = new Caramel(b);
             //b = new Caramel(b);
@@ -30,11 +35,11 @@ namespace Client
 
             //Double espresso
 
-            b = new Espresso(b);
-            b = new Caramel(b);
-            b = new Caramel(b);
+            //b = new Espresso(b);
+            //b = new Caramel(b);
+            //b = new Caramel(b);
 
-            Console.WriteLine(b.Cost());
+            //Console.WriteLine(b.Cost());
 
 
 

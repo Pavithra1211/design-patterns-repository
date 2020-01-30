@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DesignPatterns\\Design Patterns\\DecoratorPattern\\DecoratorPattern.csproj",
+      "projectUniqueName": "D:\\GitProjects\\design-patterns-repository\\DecoratorPattern\\DecoratorPattern.csproj",
       "projectName": "DecoratorPattern",
-      "projectPath": "C:\\DesignPatterns\\Design Patterns\\DecoratorPattern\\DecoratorPattern.csproj",
+      "projectPath": "D:\\GitProjects\\design-patterns-repository\\DecoratorPattern\\DecoratorPattern.csproj",
       "packagesPath": "C:\\Users\\lapuser\\.nuget\\packages\\",
-      "outputPath": "C:\\DesignPatterns\\Design Patterns\\DecoratorPattern\\obj\\",
+      "outputPath": "D:\\GitProjects\\design-patterns-repository\\DecoratorPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
